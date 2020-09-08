@@ -28,5 +28,5 @@ We have an established information pipeline that will help you de-identify data,
 
 We work with medical facilities of all sizes, from individual physicians and domestic clinics to international hospital systems, and will benefit from any information you can provide.
 
-If you would like to contribute, please contact [data@covidenda.com](mailto:data@covidenda.com)
+If you would like to contribute, please contact [partners@covidenda.com](mailto:partners@covidenda.com)
 
