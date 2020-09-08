@@ -1,26 +1,32 @@
 ---
 layout: page
-title: About
+title: About Covidenda
 permalink: /about/
-image: 01.jpg
 ---
+We are a biomedical AI group specializing in improving the triage and treatment of COVID-19. Using machine learning, we discover patterns in patient data and use correlations to tailor treatment and predict patient outcome.
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Unlike other companies and research groups that appear to do similar things, our proprietary algorithms make us unique in several important ways:
+* We consider patient data holistically, including x-ray and ultrasound images, radiology reports, and blood tests;
+* We look at the whole image as well as specific radiology zones, scanning as a human clinician would;
+* We use multiple algorithms to leverage their individual strengths, e.g. one algorithm that focuses on similarities in the data and another that emphasizes differences;
+* We not only distinguish COVID-19 from other respiratory diseases (with an accuracy >99%) but identify different phenotypes within COVID; and
+* Our methods give quantitative results on the type and severity of COVID-19 
 
-***
+# Goals
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+Our immediate goals are to:
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+* **Improve patient triage** so that medical resources can be allocated more efficiently (e.g. ventilators and ICU beds);
+* **Find the best treatments** specific to COVID-19 type; and
+* **Predict the long-term effects** of COVID-19
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+# How you can help
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+**Provide data!**
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+We have an established information pipeline that will help you de-identify data, to protect patient privacy, and upload it to our site for processing.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+We work with medical facilities of all sizes, from individual physicians and domestic clinics to international hospital systems, and will benefit from any information you can provide.
+
+If you would like to contribute, please contact [data@covidenda.com](mailto:data@covidenda.com)
+
