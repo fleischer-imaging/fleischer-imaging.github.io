@@ -2,7 +2,7 @@
 # General Site Settings
 title: COVIDENDA
 logo: coronavirus.png
-description: AI focusing on triage and treatment of COVID-19
+description: Biomedial AI focusing on triage and treatment of COVID-19
 
 #-------------------------------
 # Author Settings
@@ -12,9 +12,7 @@ group:
   say-hello: Welcome to <strong>Covidenda</strong>
   learn-more: /about/
   about-us: |-
-    We are a biomedical AI group specializing in improving the triage and treatment of COVID-19.
-    
-    Using machine learning, we discover patterns in patient data and use correlations to tailor treatment and predict patient outcome.
+    We are a biomedical AI company specializing in improving the triage and treatment of COVID-19.
 
 #-------------------------------
 # Contact links
