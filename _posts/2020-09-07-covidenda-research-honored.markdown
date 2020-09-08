@@ -6,7 +6,7 @@ date:   2020-09-07 20:36:54 -0400
 tags:   COVID
 ---
 
-An abstract submitted by Covidenda researchers [Jason Fleischer](https://ee.princeton.edu/people/jason-w-fleischer) and [Mohammed Tariqul Islam](https://ee.princeton.edu/people/mohammad-tariqul-islam) was honored in the category of "Best Abstracts" at this year's European Respiratory Society Conference.
+An abstract submitted by Covidenda researchers [Jason Fleischer](https://ee.princeton.edu/people/jason-w-fleischer) and [Mohammad Tariqul Islam](https://ee.princeton.edu/people/mohammad-tariqul-islam) was honored in the category of "Best Abstracts" at this year's European Respiratory Society Conference.
 
 The abstract, "Identifying and phenotyping COVID-19 patients using machine learning on chest x-rays", describes an AI-based system for gleaning accurate and specific COVID-19 diagnoses and phenotype from widely-available chest x-rays. Such precision had only been available in the past with more expensive CT scans.
 
