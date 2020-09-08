@@ -1,7 +1,7 @@
 .subscribe {
   width: 430px;
   max-width: 100%;
-  margin: 0 auto 80px;
+  margin: 0 auto 20px;
   text-align: center;
 
   .subscribe__title {
@@ -57,7 +57,7 @@
   }
 
   @media only screen and (max-width: $mobile) {
-    margin: 0 auto 40px;
+    margin: 0 auto 20px;
     
     .subscribe__subtitle {
       font-size: 16px;

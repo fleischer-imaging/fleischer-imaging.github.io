@@ -1,6 +1,6 @@
 .top {
   position: fixed;
-  bottom: 40px;
+  bottom: 20px;
   right: -100px;
 	z-index: 1;
 	width: 35px;
@@ -13,7 +13,7 @@
 	transition: all .25s ease;
   
   &.is-active {
-    right: 40px;
+    right: 20px;
   }
 
   &:hover {

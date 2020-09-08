@@ -1,6 +1,6 @@
 .lates-title {
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 20px;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 1px;
@@ -29,7 +29,7 @@
   }
 
   @media only screen and (max-width: $tablet) {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     
     &:after,
     &:before {
